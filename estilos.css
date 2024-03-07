@@ -1,0 +1,21 @@
+body{
+    background-image: url("imagenes/fondo.jpg");
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+h1{
+  color: white;
+  text-align: center; 
+}
+
+form{
+    color:white;
+}
+
+#resultado{
+  color: white;
+}
